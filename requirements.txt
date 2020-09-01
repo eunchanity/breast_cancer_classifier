@@ -3,3 +3,5 @@ pandas
 matplotlib
 gunicorn
 streamlit
+sklearn
+scikit-learn
