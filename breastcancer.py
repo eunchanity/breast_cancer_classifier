@@ -91,7 +91,9 @@ st.sidebar.subheader("Technical Details")
 st.sidebar.markdown(
     "A logistic regression model was selected and trained on cell characteristics defined below.  \n"
     "  \n"
-    "The ROC/AUC score was `0.99` and the F1 score was `0.98`."
+    "The ROC/AUC score was `0.99` and the F1 score was `0.98`.  \n"
+    "  \n"
+    "Read the in-depth analysis in my [blog post](https://eunchanity.github.io/breast-cancer/)"
 )
 st.sidebar.subheader("Terminology")
 st.sidebar.markdown(
