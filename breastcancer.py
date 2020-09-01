@@ -10,13 +10,13 @@ scaler = pickle.load(open("pickle/scaler.p", "rb"))
 
 # streamlit beta styling
 st.beta_set_page_config(
-    page_title="Breast Cancer Classifier",
+    page_title="Breast Cancer Tumor Classifier",
     page_icon=":clipboard:",
     layout="centered",
     initial_sidebar_state="collapsed",
 )
 # streamlit outline
-st.title("Breast Cancer Classifier")
+st.title("Breast Cancer Tumor Classifier")
 st.markdown("---")
 # display of popularity meter and number
 status_text = st.text("The tumor is determined to be a:")
