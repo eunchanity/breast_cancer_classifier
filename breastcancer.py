@@ -93,11 +93,10 @@ st.sidebar.markdown(
     "  \n"
     "The ROC/AUC score was `0.99` and the F1 score was `0.98`.  \n"
     "  \n"
-    "Read the in-depth analysis in my [blog post](https://eunchanity.github.io/breast-cancer/)"
+    "_Read the in-depth analysis in my [blog post](https://eunchanity.github.io/breast-cancer/)_"
 )
 st.sidebar.subheader("Terminology")
 st.sidebar.markdown(
-    "_The definitions below can be attributed to the breast cancer study conducted by Dr. William H. Wolberg (linked in References below)_  \n"
     "  \n"
     "**Clump Thickness**: assesses if cells are mono- or multi-layered  \n"
     "**Uniformity of Cell Size**: evaluates the consistency in size of cells in sample  \n"
