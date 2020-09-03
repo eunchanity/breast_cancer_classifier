@@ -110,7 +110,7 @@ st.sidebar.markdown(
 
 st.sidebar.subheader("References")
 st.sidebar.markdown(
-    "Dataset Used: [Breast Cancer Wisconsin (Original) Data Set](hhttps://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original))"
+    "Dataset Used: [Breast Cancer Wisconsin (Original) Data Set](https://www.kaggle.com/salihacur/breastcancerwisconsin)"
 )
 st.sidebar.markdown("---")
 
